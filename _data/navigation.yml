@@ -12,6 +12,8 @@ main:
 categories:
   - title: "Linux"
     url: /categories/linux/
+  - title: "MAC"
+    url: /categories/mac/
   - title: "Spring"
     url: /categories/spring/
   - title: "운영체제"
