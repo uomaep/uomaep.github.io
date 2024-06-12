@@ -21,7 +21,7 @@ typora-root-url: ../
 
 ### Tailscale
 
-Tailscale은 [WireGuard](https://www.wireguard.com/)를 기반으로 한 VPN 서비스이다. Tailscale에 대한 자세한 설명은 생략(추후에 정리해서 포스팅 하겠음)하고, 이 글에서는 인스턴스의 22번 포트를 닫아도 Tailscale 망을 통해서 안전하게 원격 접속하는 방법에 대해 알아볼 것이다.  
+Tailscale은 [WireGuard](https://www.wireguard.com/)를 기반으로 한 VPN 서비스이다. 이 글에서는 인스턴스의 22번 포트를 닫아도 Tailscale 망을 통해서 안전하게 원격 접속하는 방법에 대해 알아볼 것이다. 또한 Tailscale의 기능 중 Subnet router 설정과 Exit Node 설정에 대해서도 얘기해 볼 것이다.  
 
   
 
