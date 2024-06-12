@@ -7,8 +7,8 @@ categories:
 tags:
   - [linux, ubuntu]
  
-date: 2024-06-13
-last_modified_at: 2024-06-13
+date: 2024-06-12
+last_modified_at: 2024-06-12
 
 typora-root-url: ../
 
