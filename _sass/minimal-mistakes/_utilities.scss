@@ -110,14 +110,18 @@ body:hover .visually-hidden button {
 .task-list {
   padding:0;
 
-  li {
-    list-style-type: none;
-  }
+  // li {
+  //   list-style-type: none;
+  // }
 
   .task-list-item-checkbox {
     margin-right: 0.5em;
     opacity: 1;
   }
+}
+
+.task-list-item {
+  list-style-type: none;
 }
 
 .task-list .task-list {
