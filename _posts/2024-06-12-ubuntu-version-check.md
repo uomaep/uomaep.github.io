@@ -1,6 +1,6 @@
 ---
 title: "[Linux] Ubuntu 현재 버전 확인 하기"
-excerpt: /etc/issue, lsb_release, /etc/os-release
+excerpt: /etc/issue, lsb_release, /etc/os-release 명령어를 통해 ubuntu 현재 버전 확인하기
 
 categories:
   - Linux
@@ -30,7 +30,7 @@ ubuntu 인스턴스를 생성하고 처음 접속했을 때 버전이 알맞게 
 
 `/etc/issue`에는 시스템 식별 세부정보가 기록되어 있다. `cat` 명령을 통해 파일 내용을 볼 수 있다.
 
-![screenshot-8210770](/assets/images/posts_img/2024-06-13-ubuntu-nginx-install/screenshot-8210770.png)
+![screenshot-8210770](/assets/images/posts_img/2024-06-12-ubuntu-version-check/screenshot-8210770.png)
 
   
 
@@ -38,7 +38,7 @@ ubuntu 인스턴스를 생성하고 처음 접속했을 때 버전이 알맞게 
 
 Linux Standard Base(LSB) 정보를 보여준다. `/etc/issue` 보다 좀 더 자세한 정보가 나온다.
 
-![screenshot-8211150](/assets/images/posts_img/2024-06-13-ubuntu-nginx-install/screenshot-8211150.png)
+![screenshot-8211150](/assets/images/posts_img/2024-06-12-ubuntu-version-check/screenshot-8211150.png)
 
   
 
@@ -46,7 +46,7 @@ Linux Standard Base(LSB) 정보를 보여준다. `/etc/issue` 보다 좀 더 자
 
 `/etc/os-release`에는 운영체제에 대한 세부 정보가 기록되어 있다. 참고로 이 방법은 `ubuntu 16.04` 이상 버전에서만 작동한다고 한다. `cat` 명령을 통해 볼 수 있다.
 
-![screenshot-8211214](/assets/images/posts_img/2024-06-13-ubuntu-nginx-install/screenshot-8211214.png)
+![screenshot-8211214](/assets/images/posts_img/2024-06-12-ubuntu-version-check/screenshot-8211214.png)
 
   
 
