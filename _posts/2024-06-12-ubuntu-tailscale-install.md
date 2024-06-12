@@ -41,6 +41,12 @@ Tailscale은 [WireGuard](https://www.wireguard.com/)를 기반으로 한 VPN 서
 
 필자는 맥북, 윈도우, 아이패드, 아이폰에 모두 Tailscale를 설치하여 사용 중이다. 설치가 끝나고 Tailscale을 사용할 기기에서 로그인을 하면 [Admin 콘솔](https://login.tailscale.com/admin/machines)에 아래와 같이 기기들을 볼 수 있다.  
 
+  
+
+![screenshot 2](/assets/images/posts_img/2024-06-12-ubuntu-tailscale-install/screenshot 2.png)
+
+  
+
 그 다음 제일 중요한 서버 인스턴스에도 Tailscale을 설치해야하는데, 일단 처음 접속할 땐 22번 포트를 열고 ssh 원격 접속을 해주어야 한다. 이 글을 보고 있는 독자들은 ssh 원격 접속 정도는 껌일 것이라 생각한다. 필자는 Ubuntu 인스턴스를 사용하기 때문에 Ubuntu 기준으로 설명하겠다.  
 
 
