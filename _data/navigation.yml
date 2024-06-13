@@ -14,6 +14,8 @@ categories:
     url: /categories/linux/
   - title: "MAC"
     url: /categories/mac/
+  - title: "DevOps"
+    url: /categories/devops/
   - title: "Spring"
     url: /categories/spring/
   - title: "운영체제"
