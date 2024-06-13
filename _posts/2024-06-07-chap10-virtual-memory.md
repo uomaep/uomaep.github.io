@@ -45,7 +45,7 @@ typora-root-url: ../
 
 
 
-![screenshot-8192846](/assets/images/posts_img/2024-06-07-chap10-virtual-memory/screenshot-8192846.png)
+![screenshot-8268962](/assets/images/posts_img/2024-06-07-chap10-virtual-memory/screenshot-8268962.png)
 
   
 
