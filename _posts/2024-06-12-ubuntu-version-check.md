@@ -1,5 +1,5 @@
 ---
-title: "[Linux] Ubuntu 현재 버전 확인 하기"
+title: "Ubuntu 현재 버전 확인 하기"
 description: 명령어를 통해 ubuntu 현재 버전 확인하기
 author: uomaep
 categories: [Linux]

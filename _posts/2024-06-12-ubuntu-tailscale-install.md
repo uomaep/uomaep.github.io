@@ -1,5 +1,5 @@
 ---
-title: "[Linux] Ubuntu에 Tailscale 설치하기"
+title: "Ubuntu에 Tailscale 설치하기"
 description: Ubuntu에 Tailscale 설치하여 안전하게 원격 접속하기
 author: uomaep
 categories: [Linux]
