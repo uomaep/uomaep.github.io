@@ -688,7 +688,13 @@ $btn-mb: 0.5rem;
   height: 100%;
   overflow-y: auto;
   width: $sidebar-width;
+  /* 원본 내용
   background: var(--sidebar-bg);
+  */
+  background: url('	https://i.pinimg.com/originals/ae/7c/27/ae7c27fa492c48187dc45aa222069d93.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 70%;
   border-right: 1px solid var(--sidebar-border-color);
 
   /* Hide scrollbar for IE, Edge and Firefox */
