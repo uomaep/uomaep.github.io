@@ -4,7 +4,7 @@ description: Neovim으로 Spring Boot 개발 시 의존성 추가 후 gradle ref
 author: uomaep
 categories: [Neovim]
 tags: [Vim, Neovim, LazyVim]
-date: 2025-01-09
+date: 2025-01-09 01:00:00 +0900
 typora-root-url: ../
 ---
 
