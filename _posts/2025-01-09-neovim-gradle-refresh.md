@@ -125,4 +125,4 @@ end, { noremap = true, silent = true, desc = "Run Gradle eclipse and restart LSP
 
 이로써 Neovim에서도 Spring Boot 개발을 잘 할 수 있을 것 같다. 
 
-그리고 Neovim엔 수많은 기능 좋은 플러그인이 있는데 잘 활용하면 vscode나 intelliJ 안써도될 정도로 다 할 수 있어요. 댓글 많이 달아주시고 반응 좋으면 Neovim 활용하는 방법 정리해서 포스트로 올려보도록 할게요.
+Neovim엔 수많은 기능 좋은 플러그인이 있는데 잘 활용하면 vscode나 intelliJ 안써도될 정도로 다 할 수 있어서 Neovim 써보는 거 추천드린다.
